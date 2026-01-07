@@ -1,10 +1,10 @@
 # Dynamic Single AM Machine Scheduling with Strategic Postponement
 
-> **Strategic Postponement for Social Additive Manufacturing: A Lookahead Approximate Dynamic Programming Approach**
+> **[Wu and Yu] Dynamic Single Additive Manufacturing Machine Scheduling Considering Postponement Decisions: A Lookahead Approximate Dynamic Programming**
 
 ## 📖 Introduction
 
-This repository contains the implementation of the simulation environment, decision-making algorithms, and experimental data for the research paper: **"Dynamic Single Additive Manufacturing Machine Scheduling Considering Postponement Decisions"**.
+This repository contains the implementation of the simulation environment, decision-making algorithms, and experimental data for the research paper: **"Dynamic Single Additive Manufacturing Machine Scheduling Considering Postponement Decisions: A Lookahead Approximate Dynamic Programming"**.
 
 **Additive Manufacturing (AM)**, particularly Powder Bed Fusion (PBF), is characterized by a **subadditive cost structure**, where high fixed setup and recoating costs create a strong economic imperative for batch consolidation. In the emerging context of **Social Manufacturing**, service providers face a critical dynamic scheduling challenge:
 
