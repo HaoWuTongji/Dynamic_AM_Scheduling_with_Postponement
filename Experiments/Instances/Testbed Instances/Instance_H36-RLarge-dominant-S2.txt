@@ -1,0 +1,11 @@
+Within 36 hours, totally generated 9 parts (including 1 initial parts).,
+  ID: P1, Type: ('High', 'Large'), Arrival time: 0.00h, Length: 98.36mm, Width: 91.07mm, Height: 112.48mm, Volume: 110693.07mm3, Support: 5181.05mm3, Due: 28.04h, Price: 560.55CNY, 
+  ID: P2, Type: ('High', 'Long'), Arrival time: 1.98h, Length: 62.21mm, Width: 86.70mm, Height: 105.20mm, Volume: 68545.30mm3, Support: 423.29mm3, Due: 26.34h, Price: 421.52CNY, 
+  ID: P3, Type: ('Low', 'Large'), Arrival time: 4.66h, Length: 94.41mm, Width: 73.74mm, Height: 99.00mm, Volume: 46996.47mm3, Support: 2585.81mm3, Due: 26.85h, Price: 401.60CNY, 
+  ID: P4, Type: ('Low', 'Large'), Arrival time: 6.10h, Length: 84.16mm, Width: 81.06mm, Height: 76.81mm, Volume: 41461.01mm3, Support: 7610.41mm3, Due: 24.42h, Price: 356.83CNY, 
+  ID: P5, Type: ('High', 'Long'), Arrival time: 28.15h, Length: 45.55mm, Width: 81.87mm, Height: 104.65mm, Volume: 50149.31mm3, Support: 3004.05mm3, Due: 51.46h, Price: 372.08CNY, 
+  ID: P6, Type: ('High', 'Large'), Arrival time: 28.86h, Length: 86.41mm, Width: 68.22mm, Height: 117.14mm, Volume: 76477.55mm3, Support: 3912.38mm3, Due: 55.74h, Price: 449.76CNY, 
+  ID: P7, Type: ('High', 'Long'), Arrival time: 29.91h, Length: 98.85mm, Width: 60.28mm, Height: 102.17mm, Volume: 48986.07mm3, Support: 1435.37mm3, Due: 52.70h, Price: 419.33CNY, 
+  ID: P8, Type: ('Low', 'Large'), Arrival time: 30.31h, Length: 81.34mm, Width: 70.73mm, Height: 89.47mm, Volume: 51230.30mm3, Support: 528.52mm3, Due: 51.09h, Price: 361.02CNY, 
+  ID: P9, Type: ('High', 'Large'), Arrival time: 35.30h, Length: 75.29mm, Width: 88.75mm, Height: 130.31mm, Volume: 70681.56mm3, Support: 11027.77mm3, Due: 64.26h, Price: 465.35CNY, 
+Total price:3808.04CNY
