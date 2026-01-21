@@ -30,7 +30,7 @@ The core of this repository is a decision support system that transitions AM sch
 ├── Code/
 │   ├── MCTS_AM_Postpone_main.py       # Main entry for the MCTS-based DLA policy
 │   ├── MILP_AM_Postpone_main.py       # Main entry for the offline MILP benchmark
-│   ├── BinPackingHeu.py               # 2D Nesting heuristics (BL/Guillotine variants)
+│   ├── BinPackingHeu.py               # 2D Nesting heuristics
 │   ├── two_dimensional_packing_feasibility.py # Feasibility checks for batching
 │   └── Bestfit.dll                    # Compiled C++ extension for high-performance packing
 │
@@ -91,18 +91,18 @@ python Code/MILP_AM_Postpone_main.py
 The `Experiments/Instances` directory contains the stochastic scenarios used in the paper. The naming convention `Hxx-Ryy-Szz` represents:
 * **H (Horizon):** Length of the decision horizon (e.g., 36, 72, 144 time slots).
 * **R (Arrival Pattern):** The mix of part geometries (e.g., `RUniform`, `RLarge-dominant`, `RSmall-dominant`).
-* **S (Seed):** Random seed identifier for reproducibility.
+* **S (Sample):** Sample path identifier.
 
 ## 📝 Citation
 
 If you find this code or research useful for your work, please cite our paper:
 
 ```bibtex
-@article{Wu2025DynamicAM,
+@article{Wu2026DynamicAM,
   title={Dynamic Single Additive Manufacturing Machine Scheduling Considering Postponement Decisions: A Lookahead Approximate Dynamic Programming},
   author={Wu, Hao and Yu, Chunlong},
   journal={Submitted to European Journal of Operational Research},
-  year={2025}
+  year={2026}
 }
 ```
 
@@ -117,3 +117,4 @@ Email: [hao_wu@tongji.edu.cn](mailto:hao_wu@tongji.edu.cn)
 
 ---
 *This research is supported by the School of Mechanical Engineering at Tongji University.*
+
